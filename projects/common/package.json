@@ -1,8 +1,28 @@
 {
-  "name": "common",
-  "version": "0.0.1",
+  "name": "@ngx-chart/common",
+  "version": "0.1.0",
   "peerDependencies": {
-    "@angular/common": "^7.1.0",
-    "@angular/core": "^7.1.0"
-  }
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "d3": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorDeAndres/ngx-charts/tree/common/projects/common"
+  },
+  "author": "Victor de Andres",
+  "license": "GNU 2",
+  "bugs": {
+    "url": "https://github.com/VictorDeAndres/ngx-charts/issues"
+  },
+  "homepage": "https://github.com/VictorDeAndres/ngx-charts/blob/common/projects/common/README.md",
+  "keywords": [
+    "angular",
+    "library",
+    "d3",
+    "chart",
+    "charts"
+  ]
 }
+
+
