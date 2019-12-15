@@ -3,5 +3,8 @@
   "dest": "../../dist/doughnut-graph",
   "lib": {
     "entryFile": "src/public_api.ts"
-  }
+  },
+  "whitelistedNonPeerDependencies": [
+    "@ngx-chart/common"
+  ]
 }

@@ -1,8 +1,32 @@
 {
-  "name": "doughnut-graph",
-  "version": "0.0.1",
+  "name": "@ngx-chart/doughnut",
+  "version": "0.1.1",
   "peerDependencies": {
-    "@angular/common": "^7.1.0",
-    "@angular/core": "^7.1.0"
-  }
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "d3": "^5.0.0"
+  },
+  "dependencies": {
+    "@ngx-chart/common": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorDeAndres/ngx-charts/tree/doughnut-graph/projects/doughnut-graph"
+  },
+  "author": "Victor de Andres",
+  "license": "GNU 2",
+  "bugs": {
+    "url": "https://github.com/VictorDeAndres/ngx-charts/issues"
+  },
+  "homepage": "https://github.com/VictorDeAndres/ngx-charts/blob/doughnut-graph/projects/doughnut-graph/README.md",
+  "keywords": [
+    "angular",
+    "library",
+    "d3",
+    "chart",
+    "charts",
+    "circular",
+    "circular graphs",
+    "doughnut"
+  ]
 }
