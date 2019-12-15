@@ -17,6 +17,20 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "doughnut-graph": [
+        "dist/doughnut-graph"
+      ],
+      "doughnut-graph/*": [
+        "dist/doughnut-graph/*"
+      ],
+      "common": [
+        "dist/common"
+      ],
+      "common/*": [
+        "dist/common/*"
+      ]
+    }
   }
 }
